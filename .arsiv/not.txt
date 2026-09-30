@@ -1,0 +1,5 @@
+Bu dosya bakım içindir.
+
+Z2l6bGkgZXZyYWsgaGVyIHBhcnRpIGRla2lzaXIgYXluaSBrYXlhdCBnZWNpciwgZm9ybSB5ZXJpIGFnbmkgYXluaSBrYXlhdCBrYWxpci4K
+
+Çözmek isterseniz base64. İstemezseniz evrak zaten çözülmez.
